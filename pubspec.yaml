@@ -42,6 +42,17 @@ flutter:
 
   assets:
      - assets/images/
+     - assets/images/onboarding/
+     - assets/images/tab-icons/
+     - assets/images/settings/
+     - assets/images/news/
+     - assets/images/puzzle/
+     - assets/images/puzzle/1/
+     - assets/images/puzzle/2/
+     - assets/images/puzzle/3/
+     - assets/images/puzzle/4/
+     - assets/images/puzzle/5/
+     - assets/images/chopper-dash/
 
 
   fonts:
