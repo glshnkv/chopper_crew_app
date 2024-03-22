@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086391240640",
+    "project_id": "chopper-crew-app",
+    "storage_bucket": "chopper-crew-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086391240640:android:912f196792c5813478aa25",
+        "android_client_info": {
+          "package_name": "com.example.chopper_crew_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC0BFwT0_vPCvhJNY_630DywASo4YpjZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
